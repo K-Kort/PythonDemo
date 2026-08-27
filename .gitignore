@@ -1,1 +1,12 @@
-secrets/
+# ignore folder (everywhere):
+secrets/ 
+
+# ignore folder (only at repo root ./)
+# /secrets/
+
+# ignore folder contents but track folder with git:
+# secrets/*
+
+# ignore files of type:
+# .env
+# *.log
