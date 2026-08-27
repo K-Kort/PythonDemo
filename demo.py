@@ -51,40 +51,8 @@ def main() :
 if __name__ == "__main__":
     main()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+################
+## Extra examples:
 
 ## Open file and read line by line with for loop:
 # with open("data/inputData.txt", "r") as inputFile:
@@ -103,5 +71,3 @@ if __name__ == "__main__":
 #     "email": "kevin@example.com"
 # }
 # print(user["email"])
-
-## JSON / TOML files are basically Dicts with Lists inside them
